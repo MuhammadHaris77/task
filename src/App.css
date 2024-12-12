@@ -1,0 +1,418 @@
+.container-fluid {
+    background-image: url('https://s3-alpha-sig.figma.com/img/62a7/9a7a/a24535c2fff8a547e7b6af416b06bada?Expires=1734912000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=XVPDGmr5vJ1jo2PUY2uUhMmbqIsFEwKG35xhS858Td-aoLt9nd390AKgTkShRhaNKyfZq-F46s0dBfQ51ngqHXSBMoBPafu0AYtStDJzfNzld-31pa4WCc7BDWWcXZ3L9KDBZ8x~wTeyQ538xRbbywbTKdjUtsu-i4jG-TywXr~jp3De2MyzDopfjnSvIg8rfqXgZOlE8CuZO0TBGxfuksJrWLuWb83vpUV3NHqrJl1o~3vDjnQ8nG8Gy2L4cVlkicchNOP2A8BTxYO0HllvLxB4s8M~3yc9ID7xMy0sTvpfbpBEtoIYnNf4cVhnq4HdzoKFFkHRd38qMoRM2DkbXQ__');
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+    Top: -176px;
+    Left: -129px;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+
+
+}
+
+.proboster {
+    width: Hug (229px)px;
+    height: Hug (40px)px;
+    top: 64px;
+    left: 685px;
+    gap: 17px;
+    opacity: 0px;
+}
+
+.pro {
+    width: 47px;
+    height: 26px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Play;
+    font-size: 22.9px;
+    font-weight: 700;
+    line-height: 26.5px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #FFFFFF;
+    font-family: 'Play';
+
+}
+
+.ro {
+    font-family: Play;
+    font-size: 22.9px;
+    font-weight: 700;
+    line-height: 26.5px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    width: 32px;
+    height: 26px;
+    gap: 0px;
+    opacity: 0px;
+    color: #52B788;
+
+}
+
+.stay-connected {
+    width: 164px;
+    height: 38px;
+    top: 181px;
+    left: 717.5px;
+    padding: 8px 18px 8px 18px;
+    gap: 8px;
+    border-radius: 8px 0px 0px 0px;
+    opacity: 0px;
+    backdrop-filter: blur(10px);
+    margin: auto;
+
+}
+
+.stay-connected p {
+    width: 128px;
+    height: 22px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: 'Exo 2';
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 21.6px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #FFFFFF;
+    font-family: 'Exo 2';
+
+}
+
+.comingsoon {
+    width: 640px;
+    height: 55px;
+    top: 243px;
+    left: 481px;
+    gap: 0px;
+    opacity: 0px;
+    margin: auto;
+}
+
+
+#coming {
+    font-family: "Exo 2";
+    font-optical-sizing: auto;
+    font-weight: 700;
+    color: white;
+    font-size: 56px;
+    line-height: 67.2px;
+    text-align: center;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+
+}
+
+.coming-para {
+    width: 478px;
+    height: 44px;
+    top: 322px;
+    left: 561px;
+    gap: 0px;
+    opacity: 0.7px;
+   margin: auto;
+
+}
+
+
+.coming-para p {
+    font-family: "Exo 2";
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 21.6px;
+    text-align: center;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: white;
+}
+
+.time {
+    width: 640px;
+    height: 88px;
+    top: 406px;
+    left: 481px;
+    margin: auto;
+}
+
+#time1 {
+    
+    width: 142px;
+    height: 88px;
+    top: 406px;
+    left: 481px;
+    gap: 0px;
+    border-radius: 12px;
+    opacity: 0px;
+    background: #0F121D;
+    color: white;
+}
+
+#time2 {
+    width: 142px;
+    height: 88px;
+    top: 406px;
+    left: 647px;
+    gap: 0px;
+    border-radius: 12px;
+    opacity: 0px;
+    background: #0F121D;
+    color: white;
+    margin:  auto;
+}
+
+#time3 {
+    width: 142px;
+    height: 88px;
+    top: 406px;
+    left: 813px;
+    gap: 0px;
+    border-radius: 12px;
+    opacity: 0px;
+    background: #0F121D;
+    color: white;
+    margin:  auto;
+}
+
+#time4 {
+    width: 142px;
+    height: 88px;
+    top: 406px;
+    left: 979px;
+    gap: 0px;
+    border-radius: 12px;
+    opacity: 0px;
+    background: #0F121D;
+    color: white;
+    margin:  auto;
+}
+
+#time-para1 {
+    width: Hug (91px)px;
+    height: Hug (34px)px;
+    top: 433px;
+    left: 507px;
+    gap: 16px;
+    opacity: 0px;
+    color: white;
+    width: 64px;
+    height: 34px;
+    font-size: 48px;
+    font-weight: 600;
+    line-height: 48px;
+    text-align: center;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    font-family: "Exo 2";
+    font-optical-sizing: auto;
+    margin: auto;
+    text-align: center;
+}
+
+#time-para2 {
+    width: Hug (95px)px;
+    height: Hug (34px)px;
+    top: 433px;
+    left: 838px;
+    gap: 16px;
+    opacity: 0px;
+    width: 64px;
+    height: 34px;
+    gap: 0px;
+    opacity: 0px;
+    font-size: 48px;
+    font-family: "Exo 2";
+    font-weight: 600;
+    line-height: 48px;
+    text-align: center;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    margin: auto;
+
+}
+
+#time-para3 {
+    background: #0F121D;
+    width: 64px;
+    height: 34px;
+    font-family: "Exo 2";
+    font-size: 48px;
+    font-weight: 600;
+    line-height: 48px;
+    text-align: center;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    margin: auto;
+
+}
+
+#time-para4 {
+
+    width: Hug (89px)px;
+    height: Hug (34px)px;
+    top: 433px;
+    left: 1004px;
+    gap: 16px;
+    opacity: 0px;
+    width: 64px;
+    height: 34px;
+    gap: 0px;
+    opacity: 0px;
+    margin: auto;
+    font-family: 'Exo 2';
+font-size: 48px;
+font-weight: 600;
+line-height: 48px;
+text-align: center;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+
+}
+
+.input-field{
+    width: 416px;
+height: 80px;
+top: 542px;
+left: 592px;
+border-radius: 100px;
+border: 1px 0px 0px 0px;
+border: 1px solid white;
+margin: auto;
+border-image-source: linear-gradient(88.02deg, #FFFFFF -61.32%, rgba(255, 255, 255, 0) 71.93%);
+backdrop-filter: blur(22px);
+
+
+}
+
+.input{
+    background: none;
+    border: none;
+    width: 330px; 
+}
+.input:focus{
+    background: none;
+    border: none;
+    width: 300px; 
+
+}
+
+.input-btn{
+    width: 64px;
+height: 64px;
+top: 550px;
+left: 936px;
+gap: 0px;
+opacity: 0px;
+background: none;
+border: none;
+background: #52B788;
+border: 1px solid white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media only screen and (max-width: 600px) {
+    .comingsoon {
+        width: 100%;
+      height: 100px;
+        top: 243px;
+        left: 481px;
+        gap: 0px;
+        opacity: 0px;
+        margin: auto;
+    }
+
+    
+    
+    }
+
+
+    @media only screen and (max-width: 600px) {
+        .coming-para {
+
+            width: 100%;
+            height: 44px;  
+                    top: 322px;
+            left: 561px;
+            gap: 0px;
+            opacity: 0.7px;
+           margin: auto;
+        }
+        
+        
+        
+        }
+    
+    
+        @media only screen and (max-width: 700px) {
+            .time {
+                width: 100%;
+                height: 200px;
+                top: 406px;
+                left: 481px;
+                margin: auto;
+            }
+                
+            
+            
+            }
+        
+            @media only screen and (max-width: 600px) {
+                .container-fluid {
+                    background-image: url('https://s3-alpha-sig.figma.com/img/62a7/9a7a/a24535c2fff8a547e7b6af416b06bada?Expires=1734912000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=XVPDGmr5vJ1jo2PUY2uUhMmbqIsFEwKG35xhS858Td-aoLt9nd390AKgTkShRhaNKyfZq-F46s0dBfQ51ngqHXSBMoBPafu0AYtStDJzfNzld-31pa4WCc7BDWWcXZ3L9KDBZ8x~wTeyQ538xRbbywbTKdjUtsu-i4jG-TywXr~jp3De2MyzDopfjnSvIg8rfqXgZOlE8CuZO0TBGxfuksJrWLuWb83vpUV3NHqrJl1o~3vDjnQ8nG8Gy2L4cVlkicchNOP2A8BTxYO0HllvLxB4s8M~3yc9ID7xMy0sTvpfbpBEtoIYnNf4cVhnq4HdzoKFFkHRd38qMoRM2DkbXQ__');
+                    background-size: cover;
+                    width: 100%;
+                    height: 100%;
+                    Top: -176px;
+                    Left: -129px;
+                    gap: 0px;
+                    opacity: 0px;
+                    background-size: cover;
+                    background-position: center;
+                    background-repeat: no-repeat;
+                }
+                        
+                
+                
+                }
+    
+                @media only screen and (max-width: 600px) {
+
+            .input-field{
+            width: 100%;
+            top: 542px;
+            left: 592px;
+            border-radius: 100px;
+            border: 1px ;
+            border: 1px solid white;
+            margin: auto;
+            border-image-source: linear-gradient(88.02deg, #FFFFFF -61.32%, rgba(255, 255, 255, 0) 71.93%);
+            backdrop-filter: blur(22px);
+            
+            
+            }
+          }
+
+          @media only screen and (max-width: 600px) {
+
+          .input{
+            width: 70%;
+        }
+          }
